@@ -2,6 +2,10 @@
 
 Este proyecto, basado en Spring Framework 3.2.1, utiliza tecnologías como Lombok, Feign, Eureka Server, Config Server y Spring Gateway. Está estructurado como un proyecto Maven con cinco microservicios.
 
+## Diagrama del Proyecto
+
+![diargrama-microservicios](https://github.com/mzrtcode/spring-microservices-test/assets/71569136/2406e8f1-ec7e-4612-a959-c36a12688346)
+
 ## Estructura del Proyecto 🏗️
 
 - **microservice.gateway**: Puerta de enlace para la comunicación entre microservicios.
